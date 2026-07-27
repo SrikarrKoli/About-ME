@@ -1,6 +1,6 @@
 # Hi, I'm Srikar Kolipaka 👋
 
-**Rising junior @ UT Austin** · B.B.A. MIS + CS minor · GPA 3.91  
+**Rising junior @ UT Austin** · B.B.A. MIS + CS minor 
 
 I **build products** — from 0→1 startup features to hackathon wins to internal tools at scale.  
 Interested in **Product Management** (big tech & startups), **entrepreneurship**, and shipping things people actually use.
