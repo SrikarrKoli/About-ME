@@ -1,76 +1,54 @@
-# Hi, I'm Srikar Kolipaka 👋
+# Srikar Kolipaka
 
-**Rising junior @ UT Austin** · B.B.A. MIS + CS minor 
+Rising junior at UT Austin (B.B.A. MIS, CS minor). I work on product — mostly early-stage features, AI-backed tools, and anything where I can talk to users and ship in the same week.
 
-I **build products** — from 0→1 startup features to hackathon wins to internal tools at scale.  
-Interested in **Product Management** (big tech & startups), **entrepreneurship**, and shipping things people actually use.
-
-🌐 Portfolio *(coming soon)* · 💼 [LinkedIn](https://linkedin.com/in/srikar-kolipaka) · 📧 srikarrkolipaka@gmail.com
+[LinkedIn](https://linkedin.com/in/srikar-kolipaka) · srikarrkolipaka@gmail.com
 
 ---
 
-## Currently building
+## Right now
 
-| Project | Description |
-|---------|-------------|
-| [**TransferPath**](https://github.com/fsafdsfasd/transferpath) | Texas transfer planning app — Next.js + Supabase |
-| **Personal portfolio** | PM case studies, startup projects, build log |
-
----
-
-## Highlights
-
-| | |
-|---|---|
-| 🏆 | **HackTX 2025** — Best Financial Hack w/ Capital One ([EcoFin Carbon](https://github.com/fsafdsfasd/Buildathon)) |
-| 🥇 | **TPC Product Pitch** — 1st of 15 teams (Eleve student marketplace) |
-| 🏅 | **Alvarez & Marsal Case Comp** — 1st Place |
-| 🚀 | PM Intern @ **Wipp** (MIT Lab startup) · Analyst @ **Goldman Sachs** Platform Solutions |
-| 📈 | Product Lead @ **GameSense AI** — 1.2K users, +35% engagement via A/B testing |
-
----
-
-## What I do
-
-- **Product:** user research, roadmap prioritization, beta testing, KPIs, GTM
-- **Build:** Python, TypeScript, SQL, Figma prototypes, AI integrations
-- **Ship:** hackathons, startup internships, side projects, daily commits
-
----
-
-## Featured projects
-
-| Project | What it is |
-|---------|------------|
-| [EcoFin Carbon](https://github.com/fsafdsfasd/Buildathon) | Spending → carbon footprint insights · Gemini + Capital One API · **HackTX winner** |
-| [TransferPath](https://github.com/fsafdsfasd/transferpath) | Community college → university transfer planner |
-| [GooseChase](https://github.com/fsafdsfasd/GooseChase-HackHackGoose2026) | AI running coach |
-| [AggieStart](https://github.com/fsafdsfasd/AggieStart) | Product@TAMU ideathon |
-
-**Also:** Eleve (UT clothing marketplace, TPC pitch winner) · Uniquely (student authorship verification)
+Building [TransferPath](https://github.com/SrikarrKoli/transferpath), a Texas community college → university transfer planner (Next.js + Supabase). Also putting together a short portfolio of PM case studies from the last year.
 
 ---
 
 ## Experience
 
-- **Goldman Sachs** — Platform Solutions Analyst · Copilot AI agents, Salesforce integrations, 12+ workflow improvements
-- **Wipp (MIT Lab)** — PM Intern · 5+ feature betas, 28% more qualified leads, GTM to 25+ stakeholders
-- **GameSense AI** — Strategy & Product Lead · team of 3, 4→2 week delivery cycles
-- **TAMU AgriLife** — SWE Intern · Python predictive models, Tableau dashboards, 3-department rollout
-- **Texas Product Catalyst** — PM community · ConverseNow AI partnership, 10+ PM mentors secured
+**Goldman Sachs — Platform Solutions Analyst**  
+Worked on Copilot AI agents and Salesforce integrations. Helped ship 12+ workflow improvements for internal platform users.
+
+**Wipp (MIT Lab) — PM Intern**  
+Ran 5+ feature betas, improved qualified leads by 28%, and took GTM updates to 25+ stakeholders.
+
+**GameSense AI — Strategy & Product Lead**  
+Led a team of 3. Cut delivery cycles from 4 weeks to 2. Grew to 1.2K users and +35% engagement through A/B testing.
+
+**TAMU AgriLife — SWE Intern**  
+Built Python predictive models and Tableau dashboards that rolled out across 3 departments.
+
+**Texas Product Catalyst**  
+Helped stand up a ConverseNow AI partnership and brought in 10+ PM mentors for the community.
 
 ---
 
-## Stack
+## Things I've shipped
 
-`Figma` · `Python` · `SQL` · `TypeScript` · `Next.js` · `Supabase` · `Tableau` · `Salesforce` · `Cursor` · `Claude` · `Gemini` · Agile
+- **[EcoFin Carbon](https://github.com/SrikarrKoli/HackTX-EcoFin-Carbon)** — Turns spending data into carbon footprint insights (Gemini + Capital One API). Best Financial Hack at HackTX 2025.
+- **[TransferPath](https://github.com/SrikarrKoli/transferpath)** — Transfer planning for Texas community college students.
+- **[GooseChase](https://github.com/SrikarrKoli/GooseChase-HackHackGoose2026)** — AI running coach, built at HackHackGoose 2026.
+- **Eleve** — Student clothing marketplace. 1st of 15 teams at the TPC Product Pitch.
+- **Uniquely** — Student authorship verification.
+
+Also 1st place at the Alvarez & Marsal Case Competition.
 
 ---
 
-## Off the clock
+## How I work
 
-Running · exploring new cities · sci-fi · new food · pickleball · Christopher Nolan films
+I try to stay close to both the problem and the build. That usually means a few user conversations, a rough prototype (Figma or code), one clear metric, and something people can click — then iterating from there.
+
+Day-to-day tools: Figma, Python, SQL, TypeScript, Next.js, Supabase, Tableau, Salesforce. I prototype a lot with Cursor, Claude, and Gemini.
 
 ---
 
-*Building in public — I push to active repos most days. Follow the [contribution graph](https://github.com/fsafdsfasd) or check back for new features.*
+Happy to talk product, startups, or anything I'm working on — email or LinkedIn is fine.
