@@ -26,9 +26,6 @@ Led a team of 3. Cut delivery cycles from 4 weeks to 2. Grew to 1.2K users and +
 **TAMU AgriLife — SWE Intern**  
 Built Python predictive models and Tableau dashboards that rolled out across 3 departments.
 
-**Texas Product Catalyst**  
-Helped stand up a ConverseNow AI partnership and brought in 10+ PM mentors for the community.
-
 ---
 
 ## Things I've shipped
@@ -36,7 +33,7 @@ Helped stand up a ConverseNow AI partnership and brought in 10+ PM mentors for t
 - **[EcoFin Carbon](https://github.com/SrikarrKoli/HackTX-EcoFin-Carbon)** — Turns spending data into carbon footprint insights (Gemini + Capital One API). Best Financial Hack at HackTX 2025.
 - **[TransferPath](https://github.com/SrikarrKoli/transferpath)** — Transfer planning for Texas community college students.
 - **[GooseChase](https://github.com/SrikarrKoli/GooseChase-HackHackGoose2026)** — AI running coach, built at HackHackGoose 2026.
-- **Eleve** — Student clothing marketplace. 1st of 15 teams at the TPC Product Pitch.
+- **Eleve** — UT Student clothing marketplace. 
 - **Uniquely** — Student authorship verification.
 
 Also 1st place at the Alvarez & Marsal Case Competition.
