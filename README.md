@@ -1,6 +1,6 @@
 # Srikar Kolipaka
 
-Rising junior at UT Austin (B.B.A. MIS, CS minor). I work on product — mostly early-stage features, AI-backed tools, and anything where I can talk to users and ship in the same week.
+Rising junior at UT Austin (B.B.A. MIS, CS minor). 
 
 [LinkedIn](https://linkedin.com/in/srikar-kolipaka) · srikarrkolipaka@gmail.com
 
@@ -39,10 +39,6 @@ Built Python predictive models and Tableau dashboards that rolled out across 3 d
 Also 1st place at the Alvarez & Marsal Case Competition.
 
 ---
-
-## How I work
-
-I try to stay close to both the problem and the build. That usually means a few user conversations, a rough prototype (Figma or code), one clear metric, and something people can click — then iterating from there.
 
 Day-to-day tools: Figma, Python, SQL, TypeScript, Next.js, Supabase, Tableau, Salesforce. I prototype a lot with Cursor, Claude, and Gemini.
 
