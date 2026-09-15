@@ -8,7 +8,8 @@ Rising junior at UT Austin (B.B.A. MIS, CS minor).
 
 ## Right now
 
-Building [TransferPath](https://github.com/SrikarrKoli/transferpath), a Texas community college → university transfer planner (Next.js + Supabase). Also putting together a short portfolio of PM case studies from the last year.
+Building [TransferPath](https://github.com/SrikarrKoli/transferpath), a Texas community college → university transfer planner (Next.js + Supabase). 
+
 
 ---
 
