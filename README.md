@@ -30,7 +30,7 @@ Built Python predictive models and Tableau dashboards that rolled out across 3 d
 ---
 
 ## Things I've shipped
-
+- **[JPMorgan Chase Data for Good — NBA Player Advocacy](https://docs.google.com/presentation/d/1V7zivx1tSnfK4IgNJxUOGIXsl6cW0bWikrJV3MBA49g/edit?usp=drive_link)** — Connected travel, player health, and team performance indexes into a statistical analysis of 20+ years of NBA game data for an NBPA hackathon project.
 - **[EcoFin Carbon](https://github.com/SrikarrKoli/HackTX-EcoFin-Carbon)** — Turns spending data into carbon footprint insights (Gemini + Capital One API). Best Financial Hack at HackTX 2025.
 - **[TransferPath](https://github.com/SrikarrKoli/transferpath)** — Transfer planning for Texas community college students.
 - **[GooseChase](https://github.com/SrikarrKoli/GooseChase-HackHackGoose2026)** — AI running coach, built at HackHackGoose 2026.
