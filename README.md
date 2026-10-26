@@ -1,6 +1,6 @@
 # Srikar Kolipaka
 
-Rising junior at UT Austin (B.B.A. MIS, CS minor). 
+Student at UT Austin (B.B.A. MIS, CS minor). 
 
 [LinkedIn](https://linkedin.com/in/srikar-kolipaka) · srikarrkolipaka@gmail.com
 
