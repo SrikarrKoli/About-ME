@@ -29,20 +29,18 @@ Built Python predictive models and Tableau dashboards that rolled out across 3 d
 
 ---
 
-## Things I've shipped
+## Things I've built
 - **[Spots: Social AR for Meta Ray-Ban Display](https://github.com/arnavvalvekar/meta-glasses-notes)** — Prototype using computer vision and voice AI to attach shared conversations to physical objects.
 - **[JPMorgan Chase Data for Good — NBA Player Advocacy](https://docs.google.com/presentation/d/1V7zivx1tSnfK4IgNJxUOGIXsl6cW0bWikrJV3MBA49g/edit?usp=drive_link)** — Connected travel, player health, and team performance indexes into a statistical analysis of 20+ years of NBA game data for an NBPA hackathon project.
 - **[EcoFin Carbon](https://github.com/SrikarrKoli/HackTX-EcoFin-Carbon)** — Turns spending data into carbon footprint insights (Gemini + Capital One API). Best Financial Hack at HackTX 2025.
 - **[TransferPath](https://github.com/SrikarrKoli/transferpath)** — Transfer planning for Texas community college students.
 - **[GooseChase](https://github.com/SrikarrKoli/GooseChase-HackHackGoose2026)** — AI running coach, built at HackHackGoose 2026.
-- **Eleve** — UT Student clothing marketplace. 
-- **Uniquely** — Student authorship verification.
 
 Also 1st place at the Alvarez & Marsal Case Competition.
 
 ---
 
-Day-to-day tools: Figma, Python, SQL, TypeScript, Next.js, Supabase, Tableau, Salesforce. I prototype a lot with Cursor, Claude, and Gemini.
+Day-to-day tools: Figma, Python, SQL, TypeScript, Next.js, Supabase, Tableau, Snowflake. I prototype a lot with Cursor, Claude, and Codex.
 
 ---
 
