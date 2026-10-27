@@ -30,7 +30,7 @@ Built Python predictive models and Tableau dashboards that rolled out across 3 d
 ---
 
 ## Things I've shipped
-- **[Spots](https://github.com/arnavvalvekar/meta-glasses-notes)** — Social AR prototype designed for Meta Ray-Ban Display, using computer vision and voice AI to attach shared conversations to physical objects.
+- **[Spots: Social AR for Shared Places](https://github.com/arnavvalvekar/meta-glasses-notes)** — Prototype designed for Meta Ray-Ban Display, using computer vision and voice AI to attach shared conversations to physical objects.
 - **[JPMorgan Chase Data for Good — NBA Player Advocacy](https://docs.google.com/presentation/d/1V7zivx1tSnfK4IgNJxUOGIXsl6cW0bWikrJV3MBA49g/edit?usp=drive_link)** — Connected travel, player health, and team performance indexes into a statistical analysis of 20+ years of NBA game data for an NBPA hackathon project.
 - **[EcoFin Carbon](https://github.com/SrikarrKoli/HackTX-EcoFin-Carbon)** — Turns spending data into carbon footprint insights (Gemini + Capital One API). Best Financial Hack at HackTX 2025.
 - **[TransferPath](https://github.com/SrikarrKoli/transferpath)** — Transfer planning for Texas community college students.
