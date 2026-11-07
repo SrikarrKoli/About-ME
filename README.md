@@ -1,47 +1,51 @@
-# Srikar Kolipaka
+# Hi, I’m Srikar Kolipaka
 
-Student at UT Austin (B.B.A. MIS, CS minor). 
+I’m an MIS student at UT Austin, also studying a CS minor.
 
-[LinkedIn](https://linkedin.com/in/srikar-kolipaka) · srikarrkolipaka@gmail.com
+Product management and AI appeal to me because I like figuring out how new technology can solve meaningful problems. I’m drawn to startups tackling those problems across industries like microelectronics, physical AI, and deep technology.
 
----
+[Personal portfolio](https://hello-internet.srikarrkolipaka.workers.dev/) · [LinkedIn](https://linkedin.com/in/srikar-kolipaka) · [Email](mailto:srikarrkolipaka@gmail.com)
 
-## Right now
+## What I’m building
 
-Building [TransferPath](https://github.com/SrikarrKoli/transferpath), a Texas community college → university transfer planner (Next.js + Supabase). 
-
-
----
+- **[Personal portfolio](https://github.com/SrikarrKoli/personal-portfolio)**: an interactive pixel-art landscape with moving clouds, falling leaves, birds, and click interactions. Explore my background and projects on the **[live site](https://hello-internet.srikarrkolipaka.workers.dev/)**.
+- **[TransferPath](https://github.com/SrikarrKoli/transferpath)**: a transfer planner for Texas community college students, bringing course plans, university requirements, deadlines, and application tasks together.
 
 ## Experience
 
-**Goldman Sachs — Platform Solutions Analyst**  
-Worked on Copilot AI agents and Salesforce integrations. Helped ship 12+ workflow improvements for internal platform users.
+**Goldman Sachs · Summer Analyst**  
+This past summer, I explored how AI can improve internal tools and workflows.
 
-**Wipp (MIT Lab) — PM Intern**  
-Ran 5+ feature betas, improved qualified leads by 28%, and took GTM updates to 25+ stakeholders.
+**Wipp · Product Management Intern**  
+Before that, I interned at Wipp. I got a lot of ownership, worked on go-to-market strategy, and owned a feature from end to end.
 
-**GameSense AI — Strategy & Product Lead**  
-Led a team of 3. Cut delivery cycles from 4 weeks to 2. Grew to 1.2K users and +35% engagement through A/B testing.
+**Texas A&M AgriLife Research**  
+I created an agent-based model to study cattle growth.
 
-**TAMU AgriLife — SWE Intern**  
-Built Python predictive models and Tableau dashboards that rolled out across 3 departments.
+**UT Austin · Teaching Assistant**  
+I’m also a TA for CS 303: Elements of Programming and Computing.
 
----
+## Things I’ve built with others
 
-## Things I've built
-- **[Spots: Social AR for Meta Ray-Ban Display](https://github.com/arnavvalvekar/meta-glasses-notes)** — Prototype using computer vision and voice AI to attach shared conversations to physical objects.
-- **[JPMorgan Chase Data for Good — NBA Player Advocacy](https://docs.google.com/presentation/d/1V7zivx1tSnfK4IgNJxUOGIXsl6cW0bWikrJV3MBA49g/edit?usp=drive_link)** — Connected travel, player health, and team performance indexes into a statistical analysis of 20+ years of NBA game data for an NBPA hackathon project.
-- **[EcoFin Carbon](https://github.com/SrikarrKoli/HackTX-EcoFin-Carbon)** — Turns spending data into carbon footprint insights (Gemini + Capital One API). Best Financial Hack at HackTX 2025.
-- **[TransferPath](https://github.com/SrikarrKoli/transferpath)** — Transfer planning for Texas community college students.
-- **[GooseChase](https://github.com/SrikarrKoli/GooseChase-HackHackGoose2026)** — AI running coach, built at HackHackGoose 2026.
+| Project | What we built |
+| --- | --- |
+| [Spots](https://github.com/SrikarrKoli/spots-social-ar) | A Meta Ray-Ban track prototype that recognizes physical objects through a camera and lets people leave notes and replies on them. The current prototype runs in a browser. |
+| [EcoFin Carbon](https://github.com/SrikarrKoli/HackTX-EcoFin-Carbon) | A HackTX 2025 project using transaction data to estimate the carbon impact of purchases and generate sustainability suggestions. |
+| [GooseChase](https://github.com/SrikarrKoli/GooseChase-HackHackGoose2026) | A running coach built at HackHackGoose 2026 that uses Strava activity history for coaching conversations, run debriefs, and training plans. |
+| [NBA Player Advocacy](https://hello-internet.srikarrkolipaka.workers.dev/work/nba-player-advocacy) | Our JPMorgan Chase Data for Good analysis of NBA game data alongside travel, player health, and team performance indexes. |
 
-Also 1st place at the Alvarez & Marsal Case Competition.
+Spots and EcoFin Carbon are team projects; my repositories are forks of the shared work.
 
----
+## Outside of work
 
-Day-to-day tools: Figma, Python, SQL, TypeScript, Next.js, Supabase, Tableau, Snowflake. I prototype a lot with Cursor, Claude, and Codex.
+I like going to the gym and going on walks near the hiking trails around me. I’m from Dallas, and I’m a big Dallas Cowboys and Dallas Mavericks fan.
 
----
+I like competing in university hackathons. I’ve taken part in HackTX in 2025 and 2026, JPMorgan Chase Data for Good, and HackHackGoose 2026.
 
-Happy to talk product, startups, or anything I'm working on — email or LinkedIn is fine.
+I’d love to visit Switzerland because the scenery there is insane. New Zealand is on my list too because the black sand beaches look really cool.
+
+## Tools I use
+
+Python · TypeScript · SQL · Figma · Next.js · Supabase · Tableau
+
+You can explore my projects and what I’m working on through my **[portfolio](https://hello-internet.srikarrkolipaka.workers.dev/)**.
